@@ -1,8 +1,9 @@
 body {
-    background-color: green;
+    background-color: rgb(11, 95, 11);
 }
 
 p {
+    color: rgb(212, 19, 51);
     font-size: xx-large;
     font-family: Verdana, Geneva, Tahoma, sans-serif ;
 }
